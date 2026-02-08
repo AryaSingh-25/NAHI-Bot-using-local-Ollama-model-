@@ -116,5 +116,18 @@ The app will open in your default browser.
 NHAI AI Assistant v3.0
 Built with Streamlit and Ollama
 
+```txt
+
+## Data Usage Notice
+
+This project uses locally generated knowledge files created from publicly available
+information related to the National Highways Authority of India (NHAI).
+
+To avoid potential licensing or redistribution issues, the knowledge files are not
+included in this repository.
+
+Users are expected to generate their own local knowledge base or manually add
+summarized content to the `data/` directory.
+
 ```
 
