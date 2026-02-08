@@ -23,7 +23,7 @@ This application runs entirely on your local machine with no external APIs, ensu
 ## Project Structure
 
 ```
-
+```txt
 .
 ├── app.py
 ├── data/
@@ -32,6 +32,7 @@ This application runs entirely on your local machine with no external APIs, ensu
 │   └── ...
 ├── requirements.txt
 └── README.md
+```
 
 ````
 
