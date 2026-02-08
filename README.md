@@ -116,5 +116,4 @@ NHAI AI Assistant v3.0
 Built with Streamlit and Ollama
 
 ```
-Just tell me.
-```
+
